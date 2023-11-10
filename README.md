@@ -266,7 +266,7 @@ plt.show()
   </td>  
   <td>
   
-  <img height=40% width=70% src="https://github.com/ROHITJAIND/EX-08-DATA-VISUALIZATION-1/assets/118707073/98cba7a4-2d1a-4e0f-9944-d1f08b6be8fa">
+  <img height=50% width=95% src="https://github.com/ROHITJAIND/EX-08-DATA-VISUALIZATION-1/assets/118707073/98cba7a4-2d1a-4e0f-9944-d1f08b6be8fa">
   </td>
   </tr>  
   </table>
